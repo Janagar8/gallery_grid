@@ -1,0 +1,46 @@
+body{
+	padding-top: 70px;
+}
+ 
+.jumbotron {
+	color: #2c3e50;
+	background: #ecf0f1;
+}
+
+.bg {
+	background: #2c3e50;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+	color: white;	
+}
+
+.navbar-dark .navbar-brand {
+	color: white;
+}
+/*div{
+	border: 1px solid yellow;
+}*/
+
+/*.content{
+	color:white;
+	text-align: center;
+}
+
+.red {
+	background: red;
+	height: 100px;
+}
+
+.blue{
+ background: blue;
+ height: 100px;
+} */
+/* body { padding-top: 70px; } */
+/* img {
+	width: 100%;
+}
+div {
+	border: 1px solid black;
+	height: 100px;
+} */
